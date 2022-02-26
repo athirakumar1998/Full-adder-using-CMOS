@@ -76,6 +76,10 @@ full output swing with low number of transistors to implement it.
 # Full adder symbol
 
 ![Capture](https://user-images.githubusercontent.com/100459907/155837475-234c2b22-ed6a-43d7-bd19-ea2cf7193292.JPG)
+# NETLIST for characterizing full adder
+![image](https://user-images.githubusercontent.com/100459907/155838356-82e040c6-4ec3-4690-9c0e-9b6b7cf4942c.png)
+
+
 
 
 

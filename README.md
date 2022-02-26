@@ -52,11 +52,12 @@ full output swing with low number of transistors to implement it.
 # FULL ADDER 
 
 * Truth table
- * Reference Design
-* Reference Waveforms
+ 
  ![tt](https://user-images.githubusercontent.com/100459907/155833551-b1218065-05b8-4c54-bdd5-cc293435cc78.JPG)
-![hack1](https://user-images.githubusercontent.com/100459907/155833840-cf638074-aeb3-4eab-938e-e18b9acdc3c8.JPG)
+ * Reference Design
 
+![hack1](https://user-images.githubusercontent.com/100459907/155833840-cf638074-aeb3-4eab-938e-e18b9acdc3c8.JPG)
+* Reference Waveforms
 ![hack2](https://user-images.githubusercontent.com/100459907/155833864-a138d788-9d56-4f91-b8d0-f88a7e7d12b4.JPG)
 # Full adder schematic diagram
 ![p3](https://user-images.githubusercontent.com/100459907/155837369-fa4d56dc-b30b-4cbd-bd3b-50e5a4f7dab1.JPG)

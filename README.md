@@ -49,12 +49,31 @@ full output swing with low number of transistors to implement it.
 * Synopsis custom compiler
 * Synopsis prime wave
 * Synopsys 28nm PDK
-# FULL ADDER - Truth table
+# FULL ADDER 
+* Truth table
 ![tt](https://user-images.githubusercontent.com/100459907/155833551-b1218065-05b8-4c54-bdd5-cc293435cc78.JPG)
-# Reference Design
+* Reference Design
 ![hack1](https://user-images.githubusercontent.com/100459907/155833840-cf638074-aeb3-4eab-938e-e18b9acdc3c8.JPG)
-# Reference Waveforms
+* Reference Waveforms
 ![hack2](https://user-images.githubusercontent.com/100459907/155833864-a138d788-9d56-4f91-b8d0-f88a7e7d12b4.JPG)
+# Full adder schematic diagram
+![p3](https://user-images.githubusercontent.com/100459907/155837369-fa4d56dc-b30b-4cbd-bd3b-50e5a4f7dab1.JPG)
+# Full adder input specifications
+* Input A 
+![A](https://user-images.githubusercontent.com/100459907/155837411-5576eaff-bb09-42a1-8de3-774144de2872.JPG)
+* Input B 
+![B](https://user-images.githubusercontent.com/100459907/155837441-ec1e7016-62e7-4896-b1c0-43fc768d3edf.JPG)
+* Input C
+![C](https://user-images.githubusercontent.com/100459907/155837461-1d79684a-47dc-4657-87ae-72c933b06715.JPG)
+# Full adder symbol
+![Capture](https://user-images.githubusercontent.com/100459907/155837475-234c2b22-ed6a-43d7-bd19-ea2cf7193292.JPG)
+
+
+
+
+
+
+
 
 
 

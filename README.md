@@ -1,5 +1,6 @@
 # FULL ADDER USING CMOS
-# TABLE OF CONTENTS
+* TABLE OF CONTENTS
+
 -[Abstract](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#abstract)
 
 -[Introduction](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#introduction)
@@ -111,7 +112,8 @@ full output swing with low number of transistors to implement it.
 # OUTPUT WAVEFORM
 ![o1](https://user-images.githubusercontent.com/100459907/155838919-b369c766-8918-425b-bd30-134a86876cd8.JPG)
 
-![O](https://user-images.githubusercontent.com/100459907/155838443-25e255c8-d9ee-41b4-8553-a3f54f0d0fcb.JPG)
+![O](https://user-images.githubusercontent.com/100459907/155840169-28c992f7-c8c8-4c9f-97bc-771535d6f1ec.JPG)
+
 
 # Author
 Athira A K , National institute of Technology Puducherry

@@ -85,7 +85,7 @@ full output swing with low number of transistors to implement it.
 ![n3](https://user-images.githubusercontent.com/100459907/155838423-b62aa82a-1455-4db2-a397-e0c5d76e4862.JPG)
 
 # OUTPUT WAVEFORM
-![o1](https://user-images.githubusercontent.com/100459907/155838438-2372625c-1347-4e9e-87a4-a81280a3f5a4.JPG)
+![o1](https://user-images.githubusercontent.com/100459907/155838919-b369c766-8918-425b-bd30-134a86876cd8.JPG)
 
 ![O](https://user-images.githubusercontent.com/100459907/155838443-25e255c8-d9ee-41b4-8553-a3f54f0d0fcb.JPG)
 

@@ -1,4 +1,5 @@
-# ABSTRACT
+# FULL ADDER USING CMOS
+# Abstract
 This paper proposes the design of a Full adder using
 28 conventional cmos transistors , presents a full adder cell having
 reduced power and delay.This adder uses regular cmos structures
@@ -9,7 +10,7 @@ margin and thus reliable operation at low voltage.The layout
 of the cmos gate was also simplified due to the complementary
 transistor pairs.It’s advantages include robustness and scalability
 at low supply voltages.
-# INTRODUCTION
+# Introduction
 Circuit realization for low power and low
 area has become an important issue with the growth
 of integrated circuit towards very high integration
@@ -44,7 +45,18 @@ technology which is cost effective and used for low power
 applications. Here the primary concern to design Full adder is
 to obtain low power consumption and delay in critical path and
 full output swing with low number of transistors to implement it.
+# Tools used
+* Synopsis custom compiler
+* Synopsis prime wave
+* Synopsys 28nm PDK
 # FULL ADDER - Truth table
 ![tt](https://user-images.githubusercontent.com/100459907/155833551-b1218065-05b8-4c54-bdd5-cc293435cc78.JPG)
+# Reference Design
+![hack1](https://user-images.githubusercontent.com/100459907/155833840-cf638074-aeb3-4eab-938e-e18b9acdc3c8.JPG)
+# Reference Waveforms
+![hack2](https://user-images.githubusercontent.com/100459907/155833864-a138d788-9d56-4f91-b8d0-f88a7e7d12b4.JPG)
+
+
+
 
 

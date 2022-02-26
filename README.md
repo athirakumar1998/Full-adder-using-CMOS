@@ -1,4 +1,28 @@
 # FULL ADDER USING CMOS
+# TABLE OF CONTENTS
+-[Abstract](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#abstract)
+
+-[Introduction](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#introduction)
+
+-[Tools Used](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#tools-used)
+
+-[Full Adder](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#full-adder)
+
+-[Full adder schematic diagram](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#full-adder-schematic-diagram)
+
+-[Full adder input specifications](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#full-adder-input-specifications)
+
+-[Full adder symbol](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#full-adder-symbol)
+
+-[NETLIST for characterizing full adder](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#netlist-for-characterizing-full-adder)
+
+-[OUTPUT WAVEFORM](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#output-waveform)
+
+-[Author](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#author)
+
+-[Acknowledgements](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#author)
+
+-[References](https://github.com/athirakumar1998/Full-adder-using-CMOS/edit/main/README.md#references)
 # Abstract
 This paper proposes the design of a Full adder using
 28 conventional cmos transistors , presents a full adder cell having
@@ -89,7 +113,19 @@ full output swing with low number of transistors to implement it.
 
 ![O](https://user-images.githubusercontent.com/100459907/155838443-25e255c8-d9ee-41b4-8553-a3f54f0d0fcb.JPG)
 
-
+# Author
+Athira A K , National institute of Technology Puducherry
+# Acknowledgements
+* Kunal Ghosh, Co founder, VSD corp. pvt. Ltd.
+* (https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+* ![VSD VLSI system design](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+* Synopsys India
+# References
+* N. Weste and D. Harris, CMOS VLSI Design: A Circuits and
+Systems Perspective. Addison Wesley, 2011. [Online]. Available:
+https://books.google.co.in/books?id=sv8OQgAACAAJ
+* N. Zhuang and H. Wu, “A new design of the cmos full adder,” IEEE
+Journal of Solid-State Circuits, vol. 27, no. 5, pp. 840–844, 1992.
 
 
 

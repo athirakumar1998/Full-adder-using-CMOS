@@ -77,13 +77,17 @@ full output swing with low number of transistors to implement it.
 
 ![Capture](https://user-images.githubusercontent.com/100459907/155837475-234c2b22-ed6a-43d7-bd19-ea2cf7193292.JPG)
 # NETLIST for characterizing full adder
-![image](https://user-images.githubusercontent.com/100459907/155838356-82e040c6-4ec3-4690-9c0e-9b6b7cf4942c.png)
 
+![n1](https://user-images.githubusercontent.com/100459907/155838399-657d6a84-3556-40c8-9acb-ba2fb18c841b.JPG)
 
+![n2](https://user-images.githubusercontent.com/100459907/155838414-16bdb832-fea1-45af-837f-06b8cf8d9c05.JPG)
 
+![n3](https://user-images.githubusercontent.com/100459907/155838423-b62aa82a-1455-4db2-a397-e0c5d76e4862.JPG)
 
+# OUTPUT WAVEFORM
+![o1](https://user-images.githubusercontent.com/100459907/155838438-2372625c-1347-4e9e-87a4-a81280a3f5a4.JPG)
 
-
+![O](https://user-images.githubusercontent.com/100459907/155838443-25e255c8-d9ee-41b4-8553-a3f54f0d0fcb.JPG)
 
 
 

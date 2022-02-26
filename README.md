@@ -27,7 +27,7 @@ critical path and full output swing with low number
 of transistors to implement it.
 The relation between the
 inputs and outputs are given as
-sum = A ⊕ B ⊕ C ; 
+ ;sum = A ⊕ B ⊕ C ; 
 carry = Cout = AB + BC + AC ;
 Full Adder performs the addition bit by bit with carry input and
 provides output with carry output. The carry output becomes
@@ -38,7 +38,7 @@ the inverted form of carry output obtained is considering as an
 input component thereby obtaining the sum output equation
 that depends on four different varioble inputs.  Then the
 above equations can be altered as
-sum = ABC + (A + B + C)Co¯ut ;
+ ;sum = ABC + (A + B + C)Co¯ut ;
 Cout = AB + C(A + B) ;
 These outputs can be implemented using the 0.28um cmos
 technology which is cost effective and used for low power
@@ -50,7 +50,7 @@ full output swing with low number of transistors to implement it.
 * Synopsis prime wave
 * Synopsys 28nm PDK
 # FULL ADDER 
-* Truth table
+ * Truth table
 ![tt](https://user-images.githubusercontent.com/100459907/155833551-b1218065-05b8-4c54-bdd5-cc293435cc78.JPG)
 * Reference Design
 ![hack1](https://user-images.githubusercontent.com/100459907/155833840-cf638074-aeb3-4eab-938e-e18b9acdc3c8.JPG)

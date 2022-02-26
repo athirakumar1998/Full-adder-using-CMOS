@@ -50,8 +50,9 @@ full output swing with low number of transistors to implement it.
 * Synopsis prime wave
 * Synopsys 28nm PDK
 # FULL ADDER 
- * Truth table
+
 ![tt](https://user-images.githubusercontent.com/100459907/155833551-b1218065-05b8-4c54-bdd5-cc293435cc78.JPG)
+ * Truth table
 * Reference Design
 ![hack1](https://user-images.githubusercontent.com/100459907/155833840-cf638074-aeb3-4eab-938e-e18b9acdc3c8.JPG)
 * Reference Waveforms
